@@ -11,7 +11,7 @@ export default component$(() => {
         <li>Slots con referencias, es decir, Named Slots</li>
         <li>Contenido de respaldo: Fallback content</li>
       </ul>
-      <p>El código de lo trabajado lo tenéis disponible en Github</p>
+      <p>El código de lo trabajado lo tenéis disponible en <a href="https://github.com/Qwik-Spanish/qwik-slots-content-projection" target='_blank'>Github</a></p>
     </>
   );
 });
